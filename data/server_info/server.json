@@ -1,0 +1,917 @@
+{
+  "ditems": [
+    {
+      "type": "ditem",
+      "name": "10.5.71.60",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 1,
+      "links": [
+        "smtp",
+        "ssh",
+        "http"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.26",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 2,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.27",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 3,
+      "links": [
+        "http"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.28",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 4,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.29",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 5,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.30",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 6,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.31",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 7,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.33",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 8,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.34",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 9,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql",
+        "10.50.50.49"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.35",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 10,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.36",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 11,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.37",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 12,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql",
+        "10.50.50.46"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.38",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 13,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.39",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 14,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.40",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 15,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.41",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 16,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.42",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 17,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.43",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 18,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql",
+        "10.50.50.44"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.44",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 19,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql",
+        "10.50.50.43"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.45",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 20,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.46",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 21,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql",
+        "10.50.50.37"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.47",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 22,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.48",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 23,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.50.50.49",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 24,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql",
+        "10.50.50.34"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.63.120.70",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 25,
+      "links": [
+        "ssh",
+        "http"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.7.133.15",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 26,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "smtp",
+        "mysql",
+        "postgresql",
+        "10.50.50.27"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.7.133.16",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 27,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "smtp",
+        "tds",
+        "mysql",
+        "postgresql",
+        "10.50.50.46",
+        "10.50.50.49",
+        "10.50.50.37"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.7.133.17",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 28,
+      "links": [
+        "smtp",
+        "ssh",
+        "10.50.50.44"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.7.133.18",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 29,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "smtp",
+        "mysql",
+        "postgresql",
+        "10.50.50.28"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.7.133.19",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 30,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "smtp",
+        "tds",
+        "mysql",
+        "postgresql",
+        "10.50.50.31"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.7.133.20",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 31,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "smtp",
+        "mysql",
+        "postgresql",
+        "10.50.50.29",
+        "10.50.50.40"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.7.133.21",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 32,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "mongodb",
+        "smtp",
+        "tds",
+        "mysql",
+        "postgresql",
+        "10.50.50.26"
+      ]
+    },
+    {
+      "type": "ditem",
+      "name": "10.7.133.22",
+      "description": "server_ip",
+      "slug": "",
+      "date": "",
+      "ditem": 33,
+      "links": [
+        "ftp",
+        "sftp",
+        "ssh",
+        "http",
+        "mongodb",
+        "tds",
+        "mysql",
+        "postgresql"
+      ]
+    }
+  ],
+  "themes": [
+    {
+      "type": "theme",
+      "name": "ftp",
+      "description": "proto",
+      "sulg": ""
+    },
+    {
+      "type": "theme",
+      "name": "sftp",
+      "description": "proto",
+      "sulg": ""
+    },
+    {
+      "type": "theme",
+      "name": "ssh",
+      "description": "proto",
+      "sulg": ""
+    },
+    {
+      "type": "theme",
+      "name": "http",
+      "description": "proto",
+      "sulg": ""
+    },
+    {
+      "type": "theme",
+      "name": "mongodb",
+      "description": "proto",
+      "sulg": ""
+    },
+    {
+      "type": "theme",
+      "name": "smtp",
+      "description": "proto",
+      "sulg": ""
+    },
+    {
+      "type": "theme",
+      "name": "tds",
+      "description": "proto",
+      "sulg": ""
+    },
+    {
+      "type": "theme",
+      "name": "mysql",
+      "description": "proto",
+      "sulg": ""
+    },
+    {
+      "type": "theme",
+      "name": "postgresql",
+      "description": "proto",
+      "sulg": ""
+    }
+  ],
+  "perspectives": [
+    {
+      "type": "perspective",
+      "name": "10.5.71.60",
+      "description": "subject",
+      "slug": "",
+      "count": "8",
+      "group": "1"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.26",
+      "description": "subject",
+      "slug": "",
+      "count": "21",
+      "group": "2"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.27",
+      "description": "subject",
+      "slug": "",
+      "count": "1",
+      "group": "3"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.28",
+      "description": "subject",
+      "slug": "",
+      "count": "21",
+      "group": "4"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.29",
+      "description": "subject",
+      "slug": "",
+      "count": "21",
+      "group": "5"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.30",
+      "description": "subject",
+      "slug": "",
+      "count": "16",
+      "group": "6"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.31",
+      "description": "subject",
+      "slug": "",
+      "count": "21",
+      "group": "7"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.33",
+      "description": "subject",
+      "slug": "",
+      "count": "20",
+      "group": "8"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.34",
+      "description": "subject",
+      "slug": "",
+      "count": "21",
+      "group": "9"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.35",
+      "description": "subject",
+      "slug": "",
+      "count": "20",
+      "group": "10"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.36",
+      "description": "subject",
+      "slug": "",
+      "count": "20",
+      "group": "11"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.37",
+      "description": "subject",
+      "slug": "",
+      "count": "22",
+      "group": "12"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.38",
+      "description": "subject",
+      "slug": "",
+      "count": "20",
+      "group": "13"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.39",
+      "description": "subject",
+      "slug": "",
+      "count": "20",
+      "group": "14"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.40",
+      "description": "subject",
+      "slug": "",
+      "count": "21",
+      "group": "15"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.41",
+      "description": "subject",
+      "slug": "",
+      "count": "20",
+      "group": "16"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.42",
+      "description": "subject",
+      "slug": "",
+      "count": "19",
+      "group": "17"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.43",
+      "description": "subject",
+      "slug": "",
+      "count": "21",
+      "group": "18"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.44",
+      "description": "subject",
+      "slug": "",
+      "count": "22",
+      "group": "19"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.45",
+      "description": "subject",
+      "slug": "",
+      "count": "16",
+      "group": "20"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.46",
+      "description": "subject",
+      "slug": "",
+      "count": "22",
+      "group": "21"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.47",
+      "description": "subject",
+      "slug": "",
+      "count": "20",
+      "group": "22"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.48",
+      "description": "subject",
+      "slug": "",
+      "count": "20",
+      "group": "23"
+    },
+    {
+      "type": "perspective",
+      "name": "10.50.50.49",
+      "description": "subject",
+      "slug": "",
+      "count": "22",
+      "group": "24"
+    },
+    {
+      "type": "perspective",
+      "name": "10.63.120.70",
+      "description": "subject",
+      "slug": "",
+      "count": "13",
+      "group": "25"
+    },
+    {
+      "type": "perspective",
+      "name": "10.7.133.15",
+      "description": "subject",
+      "slug": "",
+      "count": "20",
+      "group": "26"
+    },
+    {
+      "type": "perspective",
+      "name": "10.7.133.16",
+      "description": "subject",
+      "slug": "",
+      "count": "21",
+      "group": "27"
+    },
+    {
+      "type": "perspective",
+      "name": "10.7.133.17",
+      "description": "subject",
+      "slug": "",
+      "count": "0",
+      "group": "28"
+    },
+    {
+      "type": "perspective",
+      "name": "10.7.133.18",
+      "description": "subject",
+      "slug": "",
+      "count": "20",
+      "group": "29"
+    },
+    {
+      "type": "perspective",
+      "name": "10.7.133.19",
+      "description": "subject",
+      "slug": "",
+      "count": "20",
+      "group": "30"
+    },
+    {
+      "type": "perspective",
+      "name": "10.7.133.20",
+      "description": "subject",
+      "slug": "",
+      "count": "21",
+      "group": "31"
+    },
+    {
+      "type": "perspective",
+      "name": "10.7.133.21",
+      "description": "subject",
+      "slug": "",
+      "count": "19",
+      "group": "32"
+    },
+    {
+      "type": "perspective",
+      "name": "10.7.133.22",
+      "description": "subject",
+      "slug": "",
+      "count": "18",
+      "group": "33"
+    }
+  ]
+}

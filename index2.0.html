@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<title>面向威胁情报的可视分析</title>
+		<!-- 引入 ECharts 文件 -->
+
+		<style type="text/css">
+			body {
+				/*rgba(204, 204, 204, 0.4)*/
+				background-color: "#363636";
+				/*		 padding:0px;
+  margin: 0px;
+  background:url('../img/background.JPG') no-repeat; 
+  background-image:url('img/background.JPG');
+  /* background-color: #131b5a; */
+				*/ background-size: cover;
+			}
+			
+			.col-md1-6 {
+				width: 50%
+			}
+			
+			.chart-border {
+				width: 100%;
+				height: 740px;
+				border: 3px double rgba(167, 195, 221, 1);
+				padding: 0px;
+			}
+			
+			.chart-border2 {
+				width: 100%;
+				height: 500px;
+				border: 3px double rgba(167, 195, 221, 1);
+				padding: 0px;
+			}
+			
+			.chart-border3 {
+				width: 100%;
+				height: 300px;
+				border: 3px double rgba(167, 195, 221, 1);
+				padding: 0px;
+			}
+			
+			.table-border {
+				width: 100%;
+				height: 565px;
+				border: 1px;
+				border-style: dashed;
+				border-color: #dcd0d0;
+				padding: 5px;
+			}
+			
+			.chart-row {
+				padding-top: 0px;
+				border: 1px solid steelblue;
+			}
+		</style>
+	</head>
+
+	<body style="background: rgba(13,64,108,1);">
+		<h1 style="text-align:center; font-family: '黑体';color:antiquewhite">工作模式可视分析</h1>
+		<div class="container-fluid">
+			<div class="row chart-row">
+				<!-- 为 ECharts 准备一个具备大小（宽高）的 DOM -->
+				<div class="col-md-1">
+					<div id="wordcloud" class="chart-border"></div>
+
+				</div>
+				<div class="col-md-2">
+					<div id="main1" class="chart-border"></div>
+
+				</div>
+				<div class="col-md-1">
+					<div id="heatmap" class="chart-border"></div>
+
+				</div>
+
+			</div>
+		</div>
+		<div class="row chart-row">
+			<!-- 为 ECharts 准备一个具备大小（宽高）的 DOM -->
+
+			<div class="col-md-6">
+				<div id="themeriver" class="chart-border2"></div>
+
+			</div>
+			<div class="col-md-6">
+				<div id="multiple" class="chart-border2"></div>
+
+			</div>
+			<!--<div class="col-md-3">
+                <div id="main12" class="chart-border2"></div>
+
+		    </div>
+		    <div class="col-md-3">
+                <div id="main2" class="chart-border2"></div>
+
+		    </div>-->
+
+		</div>
+		<script src="lib/echarts.js"></script>
+		<script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+		<script type="text/javascript" src="lib/macarons.js"></script>
+		<script type="text/javascript" src="lib/dark.js"></script>
+		<script type="text/javascript" src="lib/shine.js"></script>
+		<link href="css/style2.css" rel="stylesheet" type="text/css" media="all" />
+		<script type="text/javascript" src="lib/echarts-gl.js"></script>
+		<script type="text/javascript" src="lib/echarts-wordcloud.js"></script>
+		<script type="text/javascript" src="lib/jquery-3.3.1.js"></script>
+		<script type="text/javascript" src="lib/bootstrap.min.js"></script>
+		<script type="text/javascript" src="lib/d3.min.js"></script>
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.12.1/bootstrap-table.min.css">
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<script type="text/javascript" src="js/tree-radial.js"></script>
+		<script type="text/javascript" src="js/1068depart/heatmap-cartesian.js"></script>
+		<script type="text/javascript" src="js/1068depart/wordcloud.js"></script>
+		<script type="text/javascript" src="js/1068depart/themeRiver.js"></script>
+		<script type="text/javascript" src="js/1068depart/grid-multiple.js"></script>
+	</body>
+
+</html>

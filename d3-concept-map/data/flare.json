@@ -1,0 +1,17 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "analytics",
+   "children": [
+    {
+     "name": "所有员工",
+     "children": [
+      {"name": "1376号员工", "size": 1200},
+      {"name": "1498号员工", "size": 3812}
+     ]
+    }
+   ]
+  }
+ ]
+}

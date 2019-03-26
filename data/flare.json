@@ -1,0 +1,26 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "analytics",
+   "children": [
+    {
+     "name": "11/18号 tcp连接ip",
+     "children": [
+      {"name": "1376号员工", "size": 1},
+      {"name": "1498号员工", "size": 1}
+     ]
+    },
+    {
+     "name": "11/18号 login连接ip",
+     "children": [
+      {"name": "1376号员工", "size": 1},
+      {"name": "1498号员工", "size": 1},
+      {"name": "1283号员工", "size": 1},
+      {"name": "1284号员工", "size": 1}
+     ]
+    }
+   ]
+  }
+ ]
+}
